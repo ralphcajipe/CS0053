@@ -1,1 +1,5 @@
+# ignore settings.json
+settings.json
+
+# ignore .vscode
 .vscode
