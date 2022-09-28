@@ -3,6 +3,7 @@ using namespace std;
 
 void recurse(int n)
 {
+    cout << "hey" << endl;
     // base case
     if (n ==0)
     {
