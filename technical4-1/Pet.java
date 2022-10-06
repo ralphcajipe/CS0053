@@ -1,13 +1,13 @@
 /**
- * Create a class called Pet that has fields:
+Create a class called Pet that has fields:
 
-   String type; //Dog, Cat, Snake, Lizard
+String type; //Dog, Cat, Snake, Lizard
 
-   String petName; //your Pet's Name
+String petName; //your Pet's Name
 
 Override the toString() method such that if you use it solely in a System.out.println(p), it will
 display "My pet is a [type] and its name is [petname]";
- */
+*/
 
 package technical4_1;
 
@@ -23,6 +23,7 @@ public class Pet {
 
     @Override
     public String toString() {
+        System.out.println("Pet problem:");
         return "My pet is a " + type + " and its name is " + petName;
     }
 }
