@@ -53,6 +53,8 @@ int main()
     int myArray[10] = {5, 3, 1, 7, 4, 2, 8, 9, 0, 6};
     int size = 10;
 
+    cout << "int myArray[10] = {5, 3, 1, 7, 4, 2, 8, 9, 0, 6};\n";
+
     int sum = recurse(myArray, size);
     cout << "Sum of Array elements is: " << sum << endl;
 
