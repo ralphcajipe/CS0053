@@ -10,7 +10,7 @@ import java.util.Random;
 
 public class TechnicalFormative51 {
     public static void main(String[] args) {
-        int[][] num = new int[5000][10000];
+        int[][] num = new int[5000][100000];
         Random r = new Random();
         int sum  = 0;
         long start = System.currentTimeMillis();
