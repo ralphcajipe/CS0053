@@ -7,9 +7,9 @@ public class LabSample {
 
     public static void main(String[] args) {
 
-        long start = System.currentTimeMillis();
         ArrayHolder array = new ArrayHolder();
 
+        long start = System.currentTimeMillis();
         array.getSumPerRow();
 
         long end = System.currentTimeMillis();
