@@ -9,7 +9,3 @@ public class MainTF6 {
         app.setVisible(true);
     }
 }
-
-
-
-
