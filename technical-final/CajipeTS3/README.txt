@@ -22,7 +22,3 @@ The application needs to connect to the SQLite Database (MLBooks.db) using SQLit
 
 To run the application, open the project called "CajipeTS3" in IntelliJ IDEA or
 any equivalent Java IDE (like Netbeans) and run the file "MainTS3.java".
-
-Recorded Demo:
-https://feutech-edu-ph.zoom.us/rec/share/aG0LePw7ob2m22tXXDsV-zKNRRKSB5K48GRERPxyCS5JF5xMiixtTDSNtvT7NBID.zARPTjYLCB-Htztw
-Passcode: ^49O1%#5
